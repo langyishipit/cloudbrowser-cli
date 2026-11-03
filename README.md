@@ -4,7 +4,7 @@ The `cloudbrowser` CLI manages persistent Chrome browsers and their CDP or Live 
 
 ## Install
 
-Download an archive with SHA-256 checksums from [cloudbrowser.tv/downloads](https://cloudbrowser.tv/downloads) or the [GitHub Releases](https://github.com/langyishipit/cloudbrowser-cli/releases) page. Package-manager taps will follow the first stable release.
+Install the CLI with the command for your operating system below. Full instructions: [CLI documentation](https://cloudbrowser.tv/docs/cli).
 
 ```bash
 curl -fsSL https://cloudbrowser.tv/install.sh | sh
